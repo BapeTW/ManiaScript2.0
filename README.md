@@ -1,0 +1,1 @@
+# ManiaScript2.0
